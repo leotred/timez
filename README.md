@@ -1,6 +1,6 @@
 ## Спрашивают который час? Покажите в их тупорылое ебало свою мобилу с этим сайтом!
 
-## [вот это показать](https://sagar-sharma-7.github.io/landing-page.github.io/) to see the Landing Page on browser.
+## [вот это показать](https://sagar-sharma-7.github.io/landing-page.github.io/), хотя думаю лучше было бы показать хуй
 
 
 ## Eblan
