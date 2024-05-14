@@ -19,7 +19,7 @@ body{
     text-align: center;
     color: #fff;
     background-image: url(https://rf0x3d.su/assets/favico/eblan.png);
-    backdrop-filter: saturate(150%);
+    backdrop-filter: blur(25px);
     background-size: 100vw 100vh;
 }
 
