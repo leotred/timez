@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Danfo&display=swap');
 
 *{
     margin: 0;
@@ -7,7 +7,7 @@
 }
 
 body{
-    font-family: "Prompt", sans-serif;
+    font-family: "Danfo", serif;
     font-weight: 600;
     font-style: italic;
     width: 100vw;
